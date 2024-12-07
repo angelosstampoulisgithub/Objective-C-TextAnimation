@@ -1,0 +1,564 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		D643DDBC2D04EBF6004B7957 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D643DD982D04EBF3004B7957 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D643DD9F2D04EBF3004B7957;
+			remoteInfo = "Objective-C-TextAnimation";
+		};
+		D643DDC62D04EBF6004B7957 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D643DD982D04EBF3004B7957 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D643DD9F2D04EBF3004B7957;
+			remoteInfo = "Objective-C-TextAnimation";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		D643DDA02D04EBF3004B7957 /* Objective-C-TextAnimation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Objective-C-TextAnimation.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D643DDBB2D04EBF6004B7957 /* Objective-C-TextAnimationTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Objective-C-TextAnimationTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D643DDC52D04EBF6004B7957 /* Objective-C-TextAnimationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Objective-C-TextAnimationUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		D643DDCD2D04EBF6004B7957 /* Exceptions for "Objective-C-TextAnimation" folder in "Objective-C-TextAnimation" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = D643DD9F2D04EBF3004B7957 /* Objective-C-TextAnimation */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		D643DDA22D04EBF3004B7957 /* Objective-C-TextAnimation */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				D643DDCD2D04EBF6004B7957 /* Exceptions for "Objective-C-TextAnimation" folder in "Objective-C-TextAnimation" target */,
+			);
+			path = "Objective-C-TextAnimation";
+			sourceTree = "<group>";
+		};
+		D643DDBE2D04EBF6004B7957 /* Objective-C-TextAnimationTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Objective-C-TextAnimationTests";
+			sourceTree = "<group>";
+		};
+		D643DDC82D04EBF6004B7957 /* Objective-C-TextAnimationUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Objective-C-TextAnimationUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D643DD9D2D04EBF3004B7957 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D643DDB82D04EBF6004B7957 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D643DDC22D04EBF6004B7957 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D643DD972D04EBF3004B7957 = {
+			isa = PBXGroup;
+			children = (
+				D643DDA22D04EBF3004B7957 /* Objective-C-TextAnimation */,
+				D643DDBE2D04EBF6004B7957 /* Objective-C-TextAnimationTests */,
+				D643DDC82D04EBF6004B7957 /* Objective-C-TextAnimationUITests */,
+				D643DDA12D04EBF3004B7957 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		D643DDA12D04EBF3004B7957 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D643DDA02D04EBF3004B7957 /* Objective-C-TextAnimation.app */,
+				D643DDBB2D04EBF6004B7957 /* Objective-C-TextAnimationTests.xctest */,
+				D643DDC52D04EBF6004B7957 /* Objective-C-TextAnimationUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		D643DD9F2D04EBF3004B7957 /* Objective-C-TextAnimation */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D643DDCE2D04EBF6004B7957 /* Build configuration list for PBXNativeTarget "Objective-C-TextAnimation" */;
+			buildPhases = (
+				D643DD9C2D04EBF3004B7957 /* Sources */,
+				D643DD9D2D04EBF3004B7957 /* Frameworks */,
+				D643DD9E2D04EBF3004B7957 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				D643DDA22D04EBF3004B7957 /* Objective-C-TextAnimation */,
+			);
+			name = "Objective-C-TextAnimation";
+			packageProductDependencies = (
+			);
+			productName = "Objective-C-TextAnimation";
+			productReference = D643DDA02D04EBF3004B7957 /* Objective-C-TextAnimation.app */;
+			productType = "com.apple.product-type.application";
+		};
+		D643DDBA2D04EBF6004B7957 /* Objective-C-TextAnimationTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D643DDD32D04EBF6004B7957 /* Build configuration list for PBXNativeTarget "Objective-C-TextAnimationTests" */;
+			buildPhases = (
+				D643DDB72D04EBF6004B7957 /* Sources */,
+				D643DDB82D04EBF6004B7957 /* Frameworks */,
+				D643DDB92D04EBF6004B7957 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D643DDBD2D04EBF6004B7957 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				D643DDBE2D04EBF6004B7957 /* Objective-C-TextAnimationTests */,
+			);
+			name = "Objective-C-TextAnimationTests";
+			packageProductDependencies = (
+			);
+			productName = "Objective-C-TextAnimationTests";
+			productReference = D643DDBB2D04EBF6004B7957 /* Objective-C-TextAnimationTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		D643DDC42D04EBF6004B7957 /* Objective-C-TextAnimationUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D643DDD62D04EBF6004B7957 /* Build configuration list for PBXNativeTarget "Objective-C-TextAnimationUITests" */;
+			buildPhases = (
+				D643DDC12D04EBF6004B7957 /* Sources */,
+				D643DDC22D04EBF6004B7957 /* Frameworks */,
+				D643DDC32D04EBF6004B7957 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D643DDC72D04EBF6004B7957 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				D643DDC82D04EBF6004B7957 /* Objective-C-TextAnimationUITests */,
+			);
+			name = "Objective-C-TextAnimationUITests";
+			packageProductDependencies = (
+			);
+			productName = "Objective-C-TextAnimationUITests";
+			productReference = D643DDC52D04EBF6004B7957 /* Objective-C-TextAnimationUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D643DD982D04EBF3004B7957 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1610;
+				TargetAttributes = {
+					D643DD9F2D04EBF3004B7957 = {
+						CreatedOnToolsVersion = 16.1;
+					};
+					D643DDBA2D04EBF6004B7957 = {
+						CreatedOnToolsVersion = 16.1;
+						TestTargetID = D643DD9F2D04EBF3004B7957;
+					};
+					D643DDC42D04EBF6004B7957 = {
+						CreatedOnToolsVersion = 16.1;
+						TestTargetID = D643DD9F2D04EBF3004B7957;
+					};
+				};
+			};
+			buildConfigurationList = D643DD9B2D04EBF3004B7957 /* Build configuration list for PBXProject "Objective-C-TextAnimation" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = D643DD972D04EBF3004B7957;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = D643DDA12D04EBF3004B7957 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D643DD9F2D04EBF3004B7957 /* Objective-C-TextAnimation */,
+				D643DDBA2D04EBF6004B7957 /* Objective-C-TextAnimationTests */,
+				D643DDC42D04EBF6004B7957 /* Objective-C-TextAnimationUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		D643DD9E2D04EBF3004B7957 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D643DDB92D04EBF6004B7957 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D643DDC32D04EBF6004B7957 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D643DD9C2D04EBF3004B7957 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D643DDB72D04EBF6004B7957 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D643DDC12D04EBF6004B7957 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		D643DDBD2D04EBF6004B7957 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D643DD9F2D04EBF3004B7957 /* Objective-C-TextAnimation */;
+			targetProxy = D643DDBC2D04EBF6004B7957 /* PBXContainerItemProxy */;
+		};
+		D643DDC72D04EBF6004B7957 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D643DD9F2D04EBF3004B7957 /* Objective-C-TextAnimation */;
+			targetProxy = D643DDC62D04EBF6004B7957 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		D643DDCF2D04EBF6004B7957 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = K6LJCT8RAA;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Objective-C-TextAnimation/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.template.Objective-C-TextAnimation";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		D643DDD02D04EBF6004B7957 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = K6LJCT8RAA;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Objective-C-TextAnimation/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.template.Objective-C-TextAnimation";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		D643DDD12D04EBF6004B7957 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		D643DDD22D04EBF6004B7957 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		D643DDD42D04EBF6004B7957 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = K6LJCT8RAA;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.template.Objective-C-TextAnimationTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Objective-C-TextAnimation.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Objective-C-TextAnimation";
+			};
+			name = Debug;
+		};
+		D643DDD52D04EBF6004B7957 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = K6LJCT8RAA;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.template.Objective-C-TextAnimationTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Objective-C-TextAnimation.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Objective-C-TextAnimation";
+			};
+			name = Release;
+		};
+		D643DDD72D04EBF6004B7957 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = K6LJCT8RAA;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.template.Objective-C-TextAnimationUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Objective-C-TextAnimation";
+			};
+			name = Debug;
+		};
+		D643DDD82D04EBF6004B7957 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = K6LJCT8RAA;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.template.Objective-C-TextAnimationUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Objective-C-TextAnimation";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D643DD9B2D04EBF3004B7957 /* Build configuration list for PBXProject "Objective-C-TextAnimation" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D643DDD12D04EBF6004B7957 /* Debug */,
+				D643DDD22D04EBF6004B7957 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D643DDCE2D04EBF6004B7957 /* Build configuration list for PBXNativeTarget "Objective-C-TextAnimation" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D643DDCF2D04EBF6004B7957 /* Debug */,
+				D643DDD02D04EBF6004B7957 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D643DDD32D04EBF6004B7957 /* Build configuration list for PBXNativeTarget "Objective-C-TextAnimationTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D643DDD42D04EBF6004B7957 /* Debug */,
+				D643DDD52D04EBF6004B7957 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D643DDD62D04EBF6004B7957 /* Build configuration list for PBXNativeTarget "Objective-C-TextAnimationUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D643DDD72D04EBF6004B7957 /* Debug */,
+				D643DDD82D04EBF6004B7957 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D643DD982D04EBF3004B7957 /* Project object */;
+}
